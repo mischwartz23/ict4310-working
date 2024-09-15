@@ -13,4 +13,3 @@ Contributors
 ============
 
 * Michael Schwartz (Michael.Schwartz@du.edu)
-* Michael Schwartz (Michael.Schwartz@du.edu)
